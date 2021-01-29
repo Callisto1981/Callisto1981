@@ -1,16 +1,40 @@
-### Hi there 👋
+### Hello!👋
 
-<!--
-**Callisto1981/Callisto1981** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Wayne a Full-Stack Software Engineer currently living in the U.S.
+    
+const MyTechStack = [
+        {
+          this.Python, Java,
+          
+          this.JavaScript = [{'React', 'Redux', 'HTML', 'CSS', 'Bootstrap', 'Material-UI', 'Styled-Components'}],
+          
+          this.Java-Spring + Node-js,
+        
+          this.PostgreSQL,
+        
+          this.Heroku + Vercel + Netlify,
+          
+          this.Whimsical + Git +Github
+          
+          public String getArrayOfIDE()
+              {
+                  IDEs = ('Visual Studio Code' + 'Atom' + 'PyCharm' + 'IntelliJ IDEA' + 'Git')
+              };
+        };
+]
 
-Here are some ideas to get you started:
+String Currently_working_on: "MicroFund", "Finishing up at Lambda", "Finishing up at CareerFoundry";
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+class Currently_Learning:
+        _init_: (SCRUM, AWS, Foreign_Languages=[Russian: level-A1, 
+                                                German: level-A2, 
+                                                Italian level-B2, 
+                                                Spanish level-A1]
+        
+contact = (email) => {
+    return wabbruscatoorr@gmail.com
+}
+
+
+
+
